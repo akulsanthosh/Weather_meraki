@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="placeHolder">--</string>
+
+    <string name="sunRise">&#xf051; : %1$s</string>
+    <string name="sunSet">&#xf052; : %1$s</string>
+    <string name="humidity">&#xf07a;Maximum Humidity: %1$d</string>
+    <string name="pressure">&#xf079;Barometer Pressure: %1$.1f in Hg</string>
+    <string name="high">&#xf055;High: %1$.1f°C</string>
+    <string name="low">&#xf053;Low: %1$.1f°C</string>
+    <string name="icon">%1$s</string>
+    <string name="temp">%1$.0f°C</string>
+</resources>
